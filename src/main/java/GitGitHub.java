@@ -4,5 +4,9 @@ public class GitGitHub {
         System.out.println("V1 komutlari");
         System.out.println("v2 komutlari");
         System.out.println("v3 komutlari");
+        System.out.println("deneme kodlari");
+
+
     }
+
 }
